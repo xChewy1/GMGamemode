@@ -1,0 +1,11 @@
+"Unknown"
+{
+	"base"		"base"
+	"title"		"Unknown"
+	"maps"		"^rp_"
+	"menusystem"	"1"
+	"settings"
+	{
+
+	}
+}
